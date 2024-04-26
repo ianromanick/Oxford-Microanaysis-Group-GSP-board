@@ -1,0 +1,3 @@
+Repository to document Oxford Microanalysis Group "GSP Board." These boards were found at an electronics reseller in Hillsboro, Oregon. I purchased them because each board has a TMS34010. Someday, I hope to get a TIGA board for PC or an A2410 board for Amiga. Having spare TMS34010 chips on hand is potentially useful.
+
+Pictures are in the pics directory, and ROM dumps will eventually be in the roms directory.
